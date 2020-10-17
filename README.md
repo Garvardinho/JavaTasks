@@ -1,5 +1,5 @@
 # JavaTasks
-Results for tasks 3-6:
+Results for tasks 2.3-6:
 
 400 elements:
 Arrays.sort time: 0.322 ms
